@@ -34,3 +34,5 @@ Diagramación de distancias conceptuales [1H]
 Sumarización de textos [1H]
 Análisis de contenidos [1H]
 (Requiere examen práctico aprobado del Módulo 1)
+
+2020 (C) GestioDinámica
