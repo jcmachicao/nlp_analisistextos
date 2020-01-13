@@ -1,3 +1,4 @@
+### GestioDinámica
 # Curso Análisis de Textos
 Todos usamos el lenguaje para comunicarnos. Sin embargo, la complejidad de la comunicación se ha elevado tanto en estos días que se hace difícil llevar la cuenta de las ideas que debemos procesar o las decisiones que debemos tomar ante un cúmulo de información que recibimos. Muchos interlocutores esperan que sus ideas sean recibidas por nosotros y a veces nosotros llegamos a niveles de saturación que nos hacen pensar en respuestas que si prestamos atención son comunes en cualquier puesto de trabajo: “es que yo no soy un robot para responder tan rápido”. 
 Bueno, qué pasaría si tuviéramos un robot que pudiera, no vamos a decir, responder todo, pero al menos ayudarnos a organizar las ideas y la información que recibimos o tenemos que emitir en nuestro lenguaje. Esa capacidad de ayuda ya no es ciencia ficción, es una realidad.
