@@ -35,4 +35,4 @@ Sumarización de textos [1H]
 Análisis de contenidos [1H]
 (Requiere examen práctico aprobado del Módulo 1)
 
-2020 (C) GestioDinámica
+2020 © GestioDinámica
